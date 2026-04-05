@@ -6,9 +6,8 @@ Front-end Web Developer / Cross-Platform Mobile Developer
 
 JavaScript ❤️
 
-* 🌍  I'm based in Cairo
+* 🌍  I'm based in Vienna
 * 🚀  I'm currently working on [planRadar](http://planradar.com)
-* 🧠  I'm learning Node.js, express, docker
 * 🤝  I'm open to collaborating on React.js and React Native projects
 
 ### Skills
